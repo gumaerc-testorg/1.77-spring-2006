@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains problem sets based on the course understanding
   of students.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-77-water-quality-control-spring-2006/263206f617bec8cce0e652c5903b3026_pset6.pdf
+file: /media/courses/1-77-water-quality-control-spring-2006/263206f617bec8cce0e652c5903b3026_pset6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset6.pdf
 uid: 263206f6-17be-c8cc-e0e6-52c5903b3026
