@@ -1,251 +1,176 @@
 ---
 content_type: page
+description: This section contains a table of readings.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: d068f772-2bb4-49b9-686b-a964c1ce5fdc
 ---
-
 The readings listed in the table below are intended as secondary references, and are taken from the following textbook:
 
 Fischer, Hugo B., John E. List, C. Robert Koh, Jorg Imberger, and Norman H. Brooks. _Mixing in Inland and Coastal Waters_. Burlington, MA: Academic Press, 1979. ISBN: 0122581504.
 
-[Supplemental Readings](#BelowTable)[](#BelowTable)
+[Supplemental Readings](#BelowTable)
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2-3
-{{< tdclose >}}
-{{< tdopen >}}
-Molecular Diffusion  
-  
-Random Walk Processes  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Molecular Diffusion
+
+Random Walk Processes
+
 Application to Solar Ponds
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 Chapter 2
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4-6
-{{< tdclose >}}
-{{< tdopen >}}
-Turbulent Advection and Diffusion  
-  
-1-, 2-, and 3-D Models of Concentration Distributions from Point, Line, and Plane Sources  
-  
-Instantaneous and Continuous Discharges  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Turbulent Advection and Diffusion
+
+1-, 2-, and 3-D Models of Concentration Distributions from Point, Line, and Plane Sources
+
+Instantaneous and Continuous Discharges
+
 Applications to Water and Air Pollution
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 Chapters 3 and 5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7-8
-{{< tdclose >}}
-{{< tdopen >}}
-Spatial Averaging  
-  
-Longitudinal Dispersion in Steady and Unsteady Flows  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Spatial Averaging
+
+Longitudinal Dispersion in Steady and Unsteady Flows
+
 Applications to Rivers
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 Chapter 4
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9-11
-{{< tdclose >}}
-{{< tdopen >}}
-Mixing in Estuaries and Embayments  
-  
-Tidal Motion, Salinity Intrusion  
-  
-Flushing and Residence Time Concepts  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Mixing in Estuaries and Embayments
+
+Tidal Motion, Salinity Intrusion
+
+Flushing and Residence Time Concepts
+
 Field Tracer Studies
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 Chapters 7 and 8
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 First Quiz
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
-Reactor Tanks (Fully Mixed, Dispersed Flow, and Plug Flow)  
-  
-Models of Reservoirs and Ponds  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Reactor Tanks (Fully Mixed, Dispersed Flow, and Plug Flow)
+
+Models of Reservoirs and Ponds
+
 Applications
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14-15
-{{< tdclose >}}
-{{< tdopen >}}
-Initial Mixing (Jets and Plumes; Ocean Outfalls)  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Initial Mixing (Jets and Plumes; Ocean Outfalls)
+
 Applications
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 Chapter 9
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16-17
-{{< tdclose >}}
-{{< tdopen >}}
-Surface Boundary Processes: Exchange of Mass, Momentum, and Thermal Energy  
-  
-Thermal Stratification in Lakes and Reservoirs  
-  
-Models of Oil Spill Trajectory  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Surface Boundary Processes: Exchange of Mass, Momentum, and Thermal Energy
+
+Thermal Stratification in Lakes and Reservoirs
+
+Models of Oil Spill Trajectory
+
 Gas Exchange
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 Chapter 6
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18-19
-{{< tdclose >}}
-{{< tdopen >}}
-Bottom Boundary Processes: Sediment Erosion/Deposition  
-  
-Discrete and Flocculant Settling  
-  
-Sorption Processes  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Bottom Boundary Processes: Sediment Erosion/Deposition
+
+Discrete and Flocculant Settling
+
+Sorption Processes
+
 Sediment-Water Exchange
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20-21
-{{< tdclose >}}
-{{< tdopen >}}
-Carbon, Nutrient, and Oxygen Cycles  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Carbon, Nutrient, and Oxygen Cycles
+
 Dissolved Oxygen in Rivers and Estuaries
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22-23
-{{< tdclose >}}
-{{< tdopen >}}
-Numerical Models of Hydrodynamics and Water Quality and their Linkage in 1-, 2-, and 3-D  
-  
-Model Selection/Assessment  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Numerical Models of Hydrodynamics and Water Quality and their Linkage in 1-, 2-, and 3-D
+
+Model Selection/Assessment
+
 Case Studies
-{{< tdclose >}}
-{{< tdopen >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Second Quiz
-{{< tdclose >}}
-{{< tdopen >}}
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25-26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Student Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
-
-{{< anchor "BelowTable" >}}{{< /anchor >}}Supplemental Readings
----------------------------------------------------------------
+## {{< anchor "BelowTable" >}}{{< /anchor >}}Supplemental Readings
 
 Chapra, Steven C. _Surface Water Quality Modeling._ New York, NY: McGraw-Hill, 1996. ISBN: 0070113645.
 
