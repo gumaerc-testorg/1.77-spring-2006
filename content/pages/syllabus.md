@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contain description, prerequisites, textbook and grading
+  criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 48138a70-4ab4-4fe9-257c-3f40e304d1f3
 ---
@@ -22,7 +26,7 @@ Prerequisites
 Textbooks
 ---------
 
-The primary text for the class is a set of the instructor's course notes, which closely parallel the material in the [lecture notes]({{< baseurl >}}/pages/lecture-notes). The following book is used as a supplemental text:
+The primary text for the class is a set of the instructor's course notes, which closely parallel the material in the {{% resource_link d0ba6d82-f5c7-3e28-34b4-741132881405 "lecture notes" %}}. The following book is used as a supplemental text:
 
 Fischer, Hugo B., John E. List, C. Robert Koh, Jorg Imberger, and Norman H. Brooks. _Mixing in Inland and Coastal Waters_. Burlington, MA: Academic Press, 1979. ISBN: 0122581504.
 
