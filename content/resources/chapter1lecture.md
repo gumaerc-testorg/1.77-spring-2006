@@ -5,6 +5,7 @@ file: /courses/1-77-water-quality-control-spring-2006/0af05d7af01a66fed72202c83d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

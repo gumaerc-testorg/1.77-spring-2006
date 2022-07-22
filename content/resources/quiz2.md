@@ -5,6 +5,7 @@ file: /courses/1-77-water-quality-control-spring-2006/c334289d3de9b78fd37893672b
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz2.pdf
 uid: c334289d-3de9-b78f-d378-93672b0121ae
 ---
 This resource contains 2 problems based on the course material.
-

@@ -7,6 +7,7 @@ file: /courses/1-77-water-quality-control-spring-2006/7a7cd5e7f0b7223e90c8b46810
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chapter2lecture.pdf
 uid: 7a7cd5e7-f0b7-223e-90c8-b46810d9459a
 ---
 This resource gives information on turbulence, turbulent (eddy) diffusivities, simple solutions for instantaneous and continuous sources in 1-, 2-, 3-d, and boundary conditions.
-

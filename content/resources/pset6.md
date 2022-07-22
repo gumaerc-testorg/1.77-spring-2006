@@ -6,6 +6,7 @@ file: /courses/1-77-water-quality-control-spring-2006/263206f617bec8cce0e652c590
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pset6.pdf
 uid: 263206f6-17be-c8cc-e0e6-52c5903b3026
 ---
 This resource contains problem sets based on the course understanding of students.
-
