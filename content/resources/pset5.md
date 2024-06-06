@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem sets based on the course understanding
   of students.
 file: /courses/1-77-water-quality-control-spring-2006/f56ec00e5f4aa570879e7659d9341698_pset5.pdf
+file_size: 78194
 file_type: application/pdf
 learning_resource_types:
 - Assignments
