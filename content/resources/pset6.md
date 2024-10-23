@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem sets based on the course understanding
   of students.
-file: /courses/1-77-water-quality-control-spring-2006/263206f617bec8cce0e652c5903b3026_pset6.pdf
+file: /ol-ocw-studio-app/courses/1-77-water-quality-control-spring-2006/263206f617bec8cce0e652c5903b3026_pset6.pdf
 file_size: 65460
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-77-water-quality-control-spring-2006/0af05d7af01a66fed72202c83d8503b6_chapter1lecture.pdf
+file: /ol-ocw-studio-app/courses/1-77-water-quality-control-spring-2006/0af05d7af01a66fed72202c83d8503b6_chapter1lecture.pdf
 file_size: 292901
 file_type: application/pdf
 learning_resource_types:
