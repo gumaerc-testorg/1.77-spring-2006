@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a questions set for the optional final exam of
   the course.
-file: /ol-ocw-studio-app/courses/1-77-water-quality-control-spring-2006/cc36811cf8fc64bdc5445f12d573a612_final.pdf
+file: /courses/1-77-water-quality-control-spring-2006/cc36811cf8fc64bdc5445f12d573a612_final.pdf
 file_size: 24987
 file_type: application/pdf
 learning_resource_types:
